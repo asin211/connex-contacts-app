@@ -59,12 +59,11 @@ Contributions are welcome! Please follow these guidelines:
 ### Desktop View
 ![Connex Contacts App Desktop UI](readme_images/desktop-connex1.png)<br>
 ![Connex Contacts App Desktop UI](readme_images/desktop-connex2.png)<br>
-![Connex Contacts App Desktop UI](readme_images/desktop-connex3.png)<br>
 
 ### Tablet View
+![Connex Contacts App Tablet UI](readme_images/tablet-connex3.png)<br>
 ![Connex Contacts App Tablet UI](readme_images/tablet-connex4.png)<br>
-![Connex Contacts App Tablet UI](readme_images/tablet-connex5.png)<br>
 
 ### Mobile View
+![Connex Contacts App Mobile UI](readme_images/mobile-connex5.png)<br>
 ![Connex Contacts App Mobile UI](readme_images/mobile-connex6.png)<br>
-![Connex Contacts App Mobile UI](readme_images/mobile-connex7.png)<br>
