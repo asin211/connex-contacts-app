@@ -1,0 +1,17 @@
+ConnexContactsApp/
+├── public/
+│   └── index.html  // Entry point for the single-page application
+├── src/
+│   ├── api/
+│   │   └── contacts.js  // Code for fetching API and interacting with contacts data
+│   ├── components/
+│   │   ├── ContactList.js  // Component displaying list of contacts
+│   │   ├── Footer.js  // Component for application footer (optional)
+│   │   ├── Navbar.js  // Component for application navigation bar (optional)
+│   │   └── Searchbar.js  // Component for searching Contacts
+│   ├── App.css  // Global styles for the application
+│   ├── App.js  // Main application entry point
+│   └── index.js  // Entry point for bundling and loading React application
+├── .gitignore  // File specifying files to ignore in Git version control
+├── package.json  // File defining project dependencies, scripts, and metadata
+└── README.md  // Project documentation and instructions
