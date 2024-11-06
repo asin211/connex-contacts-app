@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/connex-contacts-app/static/css/main.59831b2e.css",
-    "main.js": "/connex-contacts-app/static/js/main.93448d68.js",
+    "main.js": "/connex-contacts-app/static/js/main.bde57a84.js",
     "index.html": "/connex-contacts-app/index.html",
     "main.59831b2e.css.map": "/connex-contacts-app/static/css/main.59831b2e.css.map",
-    "main.93448d68.js.map": "/connex-contacts-app/static/js/main.93448d68.js.map"
+    "main.bde57a84.js.map": "/connex-contacts-app/static/js/main.bde57a84.js.map"
   },
   "entrypoints": [
     "static/css/main.59831b2e.css",
-    "static/js/main.93448d68.js"
+    "static/js/main.bde57a84.js"
   ]
 }
